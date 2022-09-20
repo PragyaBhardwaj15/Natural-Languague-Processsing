@@ -31,30 +31,42 @@ The goal of natural language processing is to specify a language comprehension a
 # Applications Of NLP
  
 1 Question Answering
+
+
 ![image](https://user-images.githubusercontent.com/101381723/189924726-dd66237e-fdaa-41a3-bc77-de1a5774ee37.png)
 
 
 2 Spam Detection
+
+
 ![image](https://user-images.githubusercontent.com/101381723/189924821-27fdc947-964b-4f57-bb5f-364a6c41087d.png)
 
 
 3 Sentiment Analysis
-![image](https://user-images.githubusercontent.com/101381723/189925151-6109d06b-dcd5-40c7-a2c8-d8df1916bb8d.png)
+
+![image](https://user-images.githubusercontent.com/101381723/191222413-6d3cbb94-08e7-48d0-b8c5-a9eb177152f8.png)
+
 
 
 
 4  Machine Translation
-![image](https://user-images.githubusercontent.com/101381723/189925219-a95a16cd-f2e6-4fd8-aa5d-c1b38d1b800a.png)
+ 
+ 
+ ![image](https://user-images.githubusercontent.com/101381723/191222532-fb6542a5-7d77-438e-93d5-304b31ccd4e3.png)
 
 
 
 5 Spelling correction
+
+
 ![image](https://user-images.githubusercontent.com/101381723/189925261-40583a7b-e216-4f42-8184-4041a5a088f4.png)
 
 
 6 Speech Recognition
 
 7 Chatbot
+
+
 ![image](https://user-images.githubusercontent.com/101381723/189925400-9b23e0f6-e834-4924-911a-bd677d0cf6a3.png)
 
  
